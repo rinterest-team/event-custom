@@ -9,6 +9,6 @@
   "license": "MIT",
   "dependencies": {
     "rinterest-team/util": "0.1.0",
-    "rinterest-team/event-base": "0.1.0",
-  },
+    "rinterest-team/event-base": "0.1.0"
+  }
 }
