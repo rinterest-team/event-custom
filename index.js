@@ -1,1 +1,1 @@
-module.exports = require('./lib/event-custom');
+module.exports = require('./lib/event-custom'); 
