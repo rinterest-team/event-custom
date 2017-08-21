@@ -1,0 +1,14 @@
+{
+  "name": "event-custom",
+  "repo": "rinterest-team/event-custom",
+  "description": "custom event register and fire like dom event",
+  "version": "0.1.0",
+  "keywords": ["event", "event-custom"],
+  "scripts": ["index.js"],
+  "files": ["lib/**"],
+  "license": "MIT",
+  "dependencies": {
+    "rinterest-team/util": "0.1.x",
+    "rinterest-team/event-base": "0.1.x",
+  },
+}
